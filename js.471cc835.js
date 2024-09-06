@@ -54650,51 +54650,51 @@ var textureLoader = new THREE.TextureLoader(loadingManager); // const imagesLoad
 var detailsImage = [{
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Kuch karta hi nahi hai\nmere sath",
-  image: textureLoader.load("./images/parmar/kartanahi.jpg")
+  image: textureLoader.load("./images/parmar/kartanahi.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Dekh kya raha hai laude,\ntera lund thodi choos raha",
-  image: textureLoader.load("./images/parmar/fruity.jpg")
+  image: textureLoader.load("./images/parmar/fruity.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Bhai bas yehi ungli bachi\nhai",
-  image: textureLoader.load("./images/parmar/only.jpg")
+  image: textureLoader.load("./images/parmar/only.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Jalwa hai apna",
-  image: textureLoader.load("./images/parmar/dhoti.jpg")
+  image: textureLoader.load("./images/parmar/dhoti.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Bhai agar mein aaloo ka\nparatha kha lunga to\naaloo kya khayega?",
-  image: textureLoader.load("./images/parmar/weed.jpg")
+  image: textureLoader.load("./images/parmar/weed.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Baap ne phir se ghar se\nnikal diya",
-  image: textureLoader.load("./images/parmar/boring.jpg")
+  image: textureLoader.load("./images/parmar/boring.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Scroll karna laude",
-  image: textureLoader.load("./images/parmar/nasha.jpg")
+  image: textureLoader.load("./images/parmar/nasha.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Beta terko aashirwad\nchahiye?",
-  image: textureLoader.load("./images/parmar/beta.jpg")
+  image: textureLoader.load("./images/parmar/beta.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Le aashirwad!!",
-  image: textureLoader.load("./images/parmar/aashirwad.jpg")
+  image: textureLoader.load("./images/parmar/aashirwad.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "**After receiving aashirwad",
-  image: textureLoader.load("./images/parmar/ded.jpg")
+  image: textureLoader.load("./images/parmar/ded.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Bhai tumko koi treatment\n pata ho to batado",
-  image: textureLoader.load("./images/parmar/tips.jpg")
+  image: textureLoader.load("./images/parmar/tips.webp")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Khatam ho gaya hai ab\nkya gand mein ghusega",
-  image: textureLoader.load("./images/parmar/gand.jpg")
+  image: textureLoader.load("./images/parmar/gand.webp")
 }];
 detailsImage.reverse();
 var gltfLoader = new _GLTFLoader.GLTFLoader(loadingManager);
@@ -55222,4 +55222,4 @@ var init = function init() {
 
 init();
 },{"three":"dKqR","three/examples/jsm/controls/OrbitControls.js":"xTGv","three/examples/jsm/loaders/GLTFLoader":"O6i0","troika-three-text":"gquP","gsap":"TpQl","../shaders/planes/vertex.glsl":"XEDp","../shaders/planes/fragment.glsl":"Y0fr","../shaders/background/vertex.glsl":"xSp2","../shaders/background/fragment.glsl":"nYbq","../shaders/particules/vertex.glsl":"NsMd","../shaders/particules/fragment.glsl":"W619","canvas-confetti":"YvuL"}]},{},["QvaY"], null)
-//# sourceMappingURL=/js.f9ffaf73.js.map
+//# sourceMappingURL=/js.4ba1ee44.js.map
