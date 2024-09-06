@@ -54649,7 +54649,7 @@ var textureLoader = new THREE.TextureLoader(loadingManager); // const imagesLoad
 
 var detailsImage = [{
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
-  name: "Koi Mere sath kuch karta hi\nnahi hai",
+  name: "Kuch karta hi nahi hai\nmere sath",
   image: textureLoader.load("./images/parmar/kartanahi.jpg")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
@@ -54669,6 +54669,18 @@ var detailsImage = [{
   image: textureLoader.load("./images/parmar/boring.jpg")
 }, {
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
+  name: "Beta terko aashirwad\nchahiye?",
+  image: textureLoader.load("./images/parmar/beta.jpg")
+}, {
+  url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
+  name: "Le aashirwad!!",
+  image: textureLoader.load("./images/parmar/aashirwad.jpg")
+}, {
+  url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
+  name: "**After receiving aashirwad",
+  image: textureLoader.load("./images/parmar/ded.jpg")
+}, {
+  url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Scroll karna laude",
   image: textureLoader.load("./images/parmar/nasha.jpg")
 }, {
@@ -54683,18 +54695,6 @@ var detailsImage = [{
   url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
   name: "Bhai bas yehi ungli bachi\nhai",
   image: textureLoader.load("./images/parmar/only.jpg")
-}, {
-  url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
-  name: "Jalwa hai apna",
-  image: textureLoader.load("./images/parmar/dhoti.jpg")
-}, {
-  url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
-  name: "Baap ne phir se ghar se\nnikal diya",
-  image: textureLoader.load("./images/parmar/boring.jpg")
-}, {
-  url: "https://youtu.be/Su52w-Rvz_8?si=BtGVUTJk3iN36ynV&t=106",
-  name: "Scroll karna laude",
-  image: textureLoader.load("./images/parmar/nasha.jpg")
 }];
 detailsImage.reverse();
 var gltfLoader = new _GLTFLoader.GLTFLoader(loadingManager);
@@ -55222,4 +55222,4 @@ var init = function init() {
 
 init();
 },{"three":"dKqR","three/examples/jsm/controls/OrbitControls.js":"xTGv","three/examples/jsm/loaders/GLTFLoader":"O6i0","troika-three-text":"gquP","gsap":"TpQl","../shaders/planes/vertex.glsl":"XEDp","../shaders/planes/fragment.glsl":"Y0fr","../shaders/background/vertex.glsl":"xSp2","../shaders/background/fragment.glsl":"nYbq","../shaders/particules/vertex.glsl":"NsMd","../shaders/particules/fragment.glsl":"W619","canvas-confetti":"YvuL"}]},{},["QvaY"], null)
-//# sourceMappingURL=/js.471cc835.js.map
+//# sourceMappingURL=/js.a69122e1.js.map
